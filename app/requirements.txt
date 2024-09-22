@@ -1,0 +1,7 @@
+#download it to you pc for the app. files will work:
+Flask
+pycopg2
+
+#out of python. only for pc:
+nginx
+apache2
